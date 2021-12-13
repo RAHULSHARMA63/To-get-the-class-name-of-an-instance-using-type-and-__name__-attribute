@@ -1,0 +1,1 @@
+# To-get-the-class-name-of-an-instance-using-type-and-__name__-attribute
